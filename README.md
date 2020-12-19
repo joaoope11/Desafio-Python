@@ -5,7 +5,7 @@ for n in range (1,5000000):
   if n%2 == 0 and n%49 == 0 and n%37 == 0: 
     print (n)
     
-# Questão 2
+# Questão 2:
 ## Função Fatorial:
 def fatorial(x):
     if x == 0 or x == 1:
